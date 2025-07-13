@@ -1,19 +1,19 @@
-# 🚀 FormGenius
+# FormGenius
 
 A modern, fast, and scalable **React + TypeScript** starter template powered by **Vite**.  
 Built with essential tools and libraries like **Tailwind CSS**, **Framer Motion**, **Zustand**, and **ESLint** for creating performant, maintainable, and delightful web applications.
 
 ---
 
-## ✨ Features
+##  Features
 
-- ⚡ **Blazing fast development** with Vite
-- 🔒 **Type-safe UI** with React 18 and TypeScript
-- 🎨 **Utility-first styling** using Tailwind CSS
-- 🎞 **Smooth animations** via Framer Motion
-- 🗃 **Simple & scalable state management** using Zustand
-- 💎 **Crisp, customizable icons** from Lucide React
-- 🛡 **Code quality enforced** with ESLint
+-  **Blazing fast development** with Vite
+-  **Type-safe UI** with React 18 and TypeScript
+-  **Utility-first styling** using Tailwind CSS
+- 🎞**Smooth animations** via Framer Motion
+-  **Simple & scalable state management** using Zustand
+-  **Crisp, customizable icons** from Lucide React
+-  **Code quality enforced** with ESLint
 
 ---
 
