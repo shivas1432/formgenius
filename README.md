@@ -16,6 +16,9 @@ Built with essential tools and libraries like **Tailwind CSS**, **Framer Motion*
 -  **Code quality enforced** with ESLint
 
 ---
+🤝 Contributing
+Contributions are welcome!
+Please fork the repository and submit a pull request with your improvements or fixes.
 
 ## 🛠 Installation
 
@@ -29,6 +32,16 @@ Built with essential tools and libraries like **Tailwind CSS**, **Framer Motion*
 git clone <repository-url>
 cd formgenius
 npm install
+
+Start the development server with hot reload:
+npm run dev
+ Production Build
+
+Build optimized production files:
+npm run build
+
+Preview the production build locally:
+npm run preview
 
 📁 Project Structure
 
